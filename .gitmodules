@@ -1,0 +1,3 @@
+[submodule "FingerTrees"]
+	path = FingerTrees
+	url = git@github.com:gelijergensen/FingerTrees.git
