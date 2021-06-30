@@ -1,3 +1,6 @@
 [submodule "FingerTrees"]
 	path = FingerTrees
 	url = git@github.com:gelijergensen/FingerTrees.git
+[submodule "MetaLogic"]
+	path = MetaLogic
+	url = git@github.com:gelijergensen/MetaLogic.git
