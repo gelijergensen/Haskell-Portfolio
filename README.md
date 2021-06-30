@@ -20,6 +20,6 @@ A simple calculator for general logic systems.
 
 This project falls into the category of Math and Logic.
 It consists of the abstract definition of a logic system and the implementation of four different logic systems including classical and intuitionistic propositional logic.
-Additionally, the project contains a small interactive calculator which allows for user input of formulas and stepwise reduction of formulas of each in the four logic systems.
+Additionally, the project contains a small interactive calculator which allows for user input of formulas and stepwise reduction of formulas in each of the four logic systems.
 
 Please see the [MetaLogic README](https://github.com/gelijergensen/MetaLogic) for more details.
